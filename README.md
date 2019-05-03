@@ -1,1 +1,1 @@
-# MMP350-Color
+# MMP-350-Grid
